@@ -1,4 +1,4 @@
-
+import logotodo from '../../assets/logotodo.png'
 import {AiOutlinePlusCircle} from 'react-icons/ai'
 import styles from "./header.module.css";
 import { ChangeEvent, FormEvent, useState, useRef } from "react";
@@ -28,7 +28,7 @@ export function Header({ onAddTask }: Props) {
     <header className={styles.header}>
       <img 
       className={styles.img}
-      src='./src/assets/LOGO.png   '  />
+      src={logotodo}  />
 
       <form onSubmit={handleSubmit} className={styles.newTaskForm}>
         <input
