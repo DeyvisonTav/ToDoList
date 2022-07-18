@@ -1,4 +1,4 @@
-import todoLogo from "../../assets/todoLogo.svg";
+
 import {AiOutlinePlusCircle} from 'react-icons/ai'
 import styles from "./header.module.css";
 import { ChangeEvent, FormEvent, useState, useRef } from "react";
@@ -26,7 +26,7 @@ export function Header({ onAddTask }: Props) {
   return (
     
     <header className={styles.header}>
-      <img src={todoLogo} />
+      <img src='./src/assets/todologo.svg' />
 
       <form onSubmit={handleSubmit} className={styles.newTaskForm}>
         <input
