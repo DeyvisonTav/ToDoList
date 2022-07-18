@@ -26,7 +26,7 @@ export function Header({ onAddTask }: Props) {
   return (
     
     <header className={styles.header}>
-      <img src='./src/assets/todologo.svg' />
+      <img src='./src/assets/todolist.svg' />
 
       <form onSubmit={handleSubmit} className={styles.newTaskForm}>
         <input
