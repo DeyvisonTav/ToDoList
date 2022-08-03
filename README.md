@@ -47,11 +47,11 @@ cujo o diferencial é o uso do localstorage, que salva na memória do navegador 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Todolist" title="#todolist" src="./src/assets/Web 1.png" width="400px">
+  <img alt="Todolist" title="#todolist" src="./src/assets/WEB 1.png" width="400px">
 
-  <img alt="Todolist" title="#todolist" src="./src/assets/Web 2.png" width="400px">
+  <img alt="Todolist" title="#todolist" src="./src/assets/WEB 2.png" width="400px">
 
-  <img alt="Todolist" title="#todolist" src="./src/assets/Web 3.png" width="400px">
+  <img alt="Todolist" title="#todolist" src="./src/assets/WEB 3.png" width="400px">
 </p>
 
 ---
