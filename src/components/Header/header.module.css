@@ -56,5 +56,5 @@
 }
 
 .img{
-  @apply w-56;
+  @apply w-56 flex justify-center items-center text-center;
 }
